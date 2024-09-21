@@ -49,3 +49,6 @@ Hypothesis 2: A peak in shark attacks was observed during summer months, with a 
 Hypothesis 3: Data suggests that men are significantly more likely to be victims of shark attacks compared to women.
 
 Full detailed findings are provided in the analysis section of the project.
+
+Project Presentation: 
+View the presentation here: https://docs.google.com/presentation/d/1T4SvaYMii3tUJmdb9byOvzqqEeOZLYwcm5pHf-9uIzQ/edit#slide=id.gc6f73a04f_0_0)
