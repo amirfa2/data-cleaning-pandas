@@ -51,4 +51,4 @@ Hypothesis 3: Data suggests that men are significantly more likely to be victims
 Full detailed findings are provided in the analysis section of the project.
 
 Project Presentation: 
-View the presentation here: https://docs.google.com/presentation/d/1T4SvaYMii3tUJmdb9byOvzqqEeOZLYwcm5pHf-9uIzQ/edit#slide=id.gc6f73a04f_0_0)
+View the presentation here: https://docs.google.com/presentation/d/1T4SvaYMii3tUJmdb9byOvzqqEeOZLYwcm5pHf-9uIzQ/edit#slide=id.gc6f73a04f_0_0
